@@ -5,7 +5,10 @@ from taskhub.cordova import plot_fake_chem_reactions
 from taskhub.gutierrez import react_with_emoji
 
 generate_fake_user()
+print(" ")
 open_image()
 generate_joke()
-plot_fake_chem_reactions()
+print(" ")
 print(react_with_emoji("Hoorayy! :tada: :partying_face:"))
+plot_fake_chem_reactions()
+
